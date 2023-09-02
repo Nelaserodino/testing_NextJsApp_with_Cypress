@@ -53,10 +53,46 @@
       "static/chunks/components_Footer_tsx.js"
     ]
   },
+  "../components/Lesson/LessonProgress.tsx -> ../Progress/CompletedLesson": {
+    "id": "../components/Lesson/LessonProgress.tsx -> ../Progress/CompletedLesson",
+    "files": [
+      "static/chunks/components_Progress_CompletedLesson_tsx.js"
+    ]
+  },
+  "../components/Lesson/LessonProgress.tsx -> ../Progress/IncompleteLesson": {
+    "id": "../components/Lesson/LessonProgress.tsx -> ../Progress/IncompleteLesson",
+    "files": [
+      "static/chunks/components_Progress_IncompleteLesson_tsx.js"
+    ]
+  },
+  "../components/Lesson/LessonProgress.tsx -> ../Progress/ProgressLine": {
+    "id": "../components/Lesson/LessonProgress.tsx -> ../Progress/ProgressLine",
+    "files": [
+      "static/chunks/components_Progress_ProgressLine_tsx.js"
+    ]
+  },
   "../components/Mobile/MobileCourses.tsx -> ./MobileProgress": {
     "id": "../components/Mobile/MobileCourses.tsx -> ./MobileProgress",
     "files": [
       "static/chunks/components_Mobile_MobileProgress_tsx.js"
+    ]
+  },
+  "[course]/[slug].tsx -> ../../components/Lesson/CompleteLessonBtn": {
+    "id": "[course]/[slug].tsx -> ../../components/Lesson/CompleteLessonBtn",
+    "files": [
+      "static/chunks/components_Lesson_CompleteLessonBtn_tsx.js"
+    ]
+  },
+  "[course]/[slug].tsx -> ../../components/Lesson/NextLessonBtn": {
+    "id": "[course]/[slug].tsx -> ../../components/Lesson/NextLessonBtn",
+    "files": [
+      "static/chunks/components_Lesson_NextLessonBtn_tsx.js"
+    ]
+  },
+  "[course]/[slug].tsx -> ../../components/Lesson/SkipChallenge": {
+    "id": "[course]/[slug].tsx -> ../../components/Lesson/SkipChallenge",
+    "files": [
+      "static/chunks/components_Lesson_SkipChallenge_tsx.js"
     ]
   }
 }
