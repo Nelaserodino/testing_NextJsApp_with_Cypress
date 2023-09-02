@@ -1,4 +1,28 @@
 {
+  "../components/Course/CourseContent.tsx -> ./CourseNextLessonBtn": {
+    "id": "../components/Course/CourseContent.tsx -> ./CourseNextLessonBtn",
+    "files": [
+      "static/chunks/components_Course_CourseNextLessonBtn_tsx.js"
+    ]
+  },
+  "../components/Course/CourseProgress.tsx -> ../Progress/CompletedLesson": {
+    "id": "../components/Course/CourseProgress.tsx -> ../Progress/CompletedLesson",
+    "files": [
+      "static/chunks/components_Progress_CompletedLesson_tsx.js"
+    ]
+  },
+  "../components/Course/CourseProgress.tsx -> ../Progress/IncompleteLesson": {
+    "id": "../components/Course/CourseProgress.tsx -> ../Progress/IncompleteLesson",
+    "files": [
+      "static/chunks/components_Progress_IncompleteLesson_tsx.js"
+    ]
+  },
+  "../components/Course/CourseProgress.tsx -> ../Progress/ProgressLine": {
+    "id": "../components/Course/CourseProgress.tsx -> ../Progress/ProgressLine",
+    "files": [
+      "static/chunks/components_Progress_ProgressLine_tsx.js"
+    ]
+  },
   "../components/Home/HomeCourses.tsx -> ./HomeProgress": {
     "id": "../components/Home/HomeCourses.tsx -> ./HomeProgress",
     "files": [
